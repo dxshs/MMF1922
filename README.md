@@ -6,5 +6,6 @@ Date: October 29, 2020
 
 Treating imbalance data. Use dataset 'IBM HR Analytics Employee Attrition and Performance' from Kaggle.
 
-MMF1922 is .ipynb file
-mmf1922 is .py file
+MMF1922 is .ipynb file\\
+mmf1922 is .py file\\
+data.csv is our data.
